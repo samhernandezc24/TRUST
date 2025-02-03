@@ -1,2 +1,2 @@
 # TRUST
-TRUST.
+TRUST application
